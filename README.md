@@ -1,4 +1,4 @@
-# K-means-clustering-from-scratch
+# Python-code-of-K-means-clustering-from-scratch
 Dataset link: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 Task:
 Imagine if a computer could automatically group similar things together in a massive dataset, without
